@@ -67,6 +67,7 @@ foreach ( $_files_to_check as $_file_to_check ) {
 		break;
 	}
 }
+
 /**
  * Adds notice bootstraping errors.
  *
